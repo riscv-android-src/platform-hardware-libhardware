@@ -25,5 +25,5 @@ cc_test {
 
     cflags: ["-Wall", "-Werror", "-O0", "-g",],
 
-    header_libs: ["libaudiohal_headers"],
+    //header_libs: ["libaudiohal_headers"],
 }
